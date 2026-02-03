@@ -1,1 +1,1 @@
-# I use CachyOS
+# I develop in Notepad
