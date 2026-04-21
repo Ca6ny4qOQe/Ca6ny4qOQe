@@ -1,14 +1,12 @@
 # Actively Maintained Minecraft Projects
 ## Server Softwares
 - Jade
-> A multithreaded server software for large open-world multiplayer servers.
+> A multithreaded and performant server software for large open-world multiplayer servers.
 - Opal
 > A paper fork with better data management and development capabilities.
 ## Plugins
 - Fungus
 > A private anti-cheat for modern servers.
-- Fungus Lite
-> A less private anti-cheat adding modern PvP heuristics to use alongside GrimAC.
 - WhirlChat
 > An all-in-one channel-based chat plugin for formatting & filtering.
 - Mannequins
