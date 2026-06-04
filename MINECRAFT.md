@@ -17,7 +17,7 @@ WhirlChat
 > An all-in-one channel-based chat plugin for formatting & filtering.
 
 Mannequins
-> A combat/danger logout prevention plugin, using mannequin entities.
+> A combat/danger logout prevention plugin using mannequin entities.
 
 Connection
 > A linking plugin to sync data, in real time or at specific intervals/events, across multiple backends and proxies.
