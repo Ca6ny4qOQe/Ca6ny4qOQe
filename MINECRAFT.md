@@ -3,10 +3,12 @@
 - Jade
 > A multithreaded and performant server software for large open-world multiplayer servers.
 - Opal
-> A paper fork with better data management and development capabilities.
+> A paper fork with better data management, development capabilities, and out-of-box optimization & configuration.
 ## Plugins
 - Fungus
-> A private anti-cheat for modern servers.
+> A private, modular, machine learning, & [bleeding-edge](https://www.merriam-webster.com/dictionary/bleeding%20edge) anti-cheat for modern servers.
+- FungusLite
+> A less private anti-cheat for modern servers. Developed separately from Fungus.
 - WhirlChat
 > An all-in-one channel-based chat plugin for formatting & filtering.
 - Mannequins
