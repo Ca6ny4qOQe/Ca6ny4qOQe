@@ -1,5 +1,3 @@
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/></a>
